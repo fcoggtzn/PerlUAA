@@ -1,0 +1,18 @@
+=== REPORTE DEL SISTEMA ===
+
+Hostname: LAPTOP-P82P6DDS
+Kernel: 
+Microsoft Windows [Versi¢n 10.0.26200.8457]
+Memoria disponible:
+
+
+FreePhysicalMemory=6819348
+
+
+
+
+Espacio en disco:
+Caption  FreeSpace     Size          
+C:       217164525568  482685030400  
+
+
