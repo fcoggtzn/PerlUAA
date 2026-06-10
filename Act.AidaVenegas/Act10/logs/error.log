@@ -1,0 +1,10 @@
+ERROR: Fallo de conexión a la base de datos
+INFO: Servicio iniciado correctamente
+ERROR: Tiempo de espera agotado
+WARNING: Uso de CPU al 85%
+ERROR: Archivo de configuración no encontrado
+INFO: Backup completado
+ERROR: Permiso denegado al acceder a /etc/shadow
+INFO: Usuario admin inició sesión
+ERROR: Disco casi lleno (95% usado)
+WARNING: Certificado SSL próximo a vencer
