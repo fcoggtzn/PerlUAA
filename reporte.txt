@@ -1,6 +1,10 @@
-=== REPORTE DEL SISTEMA ===
-
-Hostname: paoots
-Kernel: 6.8.0-124-generic
-Memoria disponible: 3,8Gi       1,1Gi       2,0Gi       60Mi        928Mi       2,7Gi
-Espacio libre en disco: /dev/mapper/ubuntu--vg-ubuntu--lv 19G 15G 2,4G      87% /
+================================
+ REPORTE DEL SISTEMA
+================================
+Hostname:            abdel-VirtualBox
+Kernel:              6.17.0-23-generic
+Fecha:               2026-06-10 22:41:54
+Memoria disponible:
+Mem:           5.6Gi       2.5Gi       148Mi        75Mi       3.0Gi       3.1Gi
+Espacio libre en disco:
+/dev/sda2         49G    15G   32G  32% /
