@@ -1,5 +1,7 @@
+cat > usuarios.txt << 'EOF'
 Juan
 Ana
 Pedro
 Luis
 Maria
+EOF
